@@ -1,62 +1,126 @@
-Hi My Name is Satyam 👋
+# Hi, I'm Satyam 👋
 
-- 🔭 I’m currently working on (MERN) full-stack development
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on some real time projects
-- 💬 Ask me about anything
-
-
-## About Me
-I'm a passionate software developer with a love for green code and elegant solutions. My journey in the world of programming began during my college days, and since then, I've been exploring various technologies and frameworks. Whether it's front-end development using React or diving into the intricacies of backend systems, I thrive on challenges and continuous learning.
-
-## Skills
-- **Languages**: Python, JavaScript, Java
-- **Front-End**: React, HTML, CSS
-- **Back-End**: Node.js, Express, PHP
-- **Databases**: MongoDB, MySQL
-- **Version Control**: Git
-- **Problem Solving**: Data structures, algorithms
-- **Cloud Platforms**: AWS (S3, EC2)
-
-## Projects
-1. **Private Password**
-   - Android app which manages user passwords & generating passwords.
-   - Built with XML, Java, and firebase as database.
-   - Features include password saving, editing, copy,and deletion.
-
-2. **E-Commerce Website**
-- User Authentication: Allow users to register, login, and manage their accounts securely using PHP sessions and MySQL database for storing user information.
-- Product Catalog: Create a catalog displaying available products with details like name, description, price, and images retrieved from the MySQL database.
-- Shopping Cart: Implement a shopping cart system using PHP sessions to add, update, and remove products. Utilize MySQL to store temporary cart data and manage checkout processes.
-- Checkout Process: Develop a checkout process for users to review their selected items, input shipping details, and complete the purchase securely. Utilize PHP for form handling and MySQL for storing order information.
-- Search Functionality: Implement a search feature allowing users to search for products by name, category, or keywords. Utilize MySQL queries to fetch relevant product information based on user input.
-- Security Measures: Implement security measures such as data encryption, input validation, and protection against SQL injection and cross-site scripting (XSS) attacks to safeguard user data and website integrity.
-   
-
-## Interests
-Apart from coding, I enjoy reading tech blogs, experimenting with new libraries, and attending hackathons. I believe in the power of collaboration and am always open to exciting projects and opportunities.
-
-Feel free to connect with me on LinkedIn or explore my GitHub repositories!
+* 💼 Currently working as **Data Engineer - Palantir**
+* 🔭 Building full-stack applications using **React, Spring Boot & Node.js**
+* 🌱 Actively improving **Data Engineering concepts & Advanced DSA**
+* 🧠 Solved **1000+ DSA problems**
+* 👯 Open to collaborate on real-world full-stack or data-driven projects
+* 💬 Ask me about Java, React, Spring Boot, DSA, or backend architecture
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🚀 About Me
+
+I’m a passionate Software Engineer with a strong academic background (9.44 CGPA in B.Tech Computer Engineering) and a deep interest in building scalable systems.
+
+My journey started with full-stack development (MERN), and over time I expanded into:
+
+* Backend engineering with **Spring Boot & Django**
+* Data Engineering concepts
+* Dashboard monitoring & data lineage (Palantir ecosystem)
+* Writing clean, maintainable, production-ready code
+
+I enjoy solving complex problems, optimizing systems, and continuously upgrading my technical depth.
+
+---
+
+## 🛠️ Skills
+
+### **Languages**
+
+* Java
+* Python
+* JavaScript
+* SQL
+* C++
+
+### **Frontend**
+
+* React.js
+* HTML5
+* CSS3
+* Material UI
+* Redux
+
+### **Backend**
+
+* Spring Boot
+* Node.js
+* Express.js
+* Django
+* FastAPI
+* REST APIs
+
+### **Databases**
+
+* MySQL
+* PostgreSQL
+* MongoDB
+
+### **Tools & Platforms**
+
+* Git & GitHub
+* AWS (S3, EC2)
+* Palantir Foundry
+* NetBox
+* Linux
+
+### **Core Strength**
+
+* Data Structures & Algorithms (1000+ problems solved)
+* System design basics
+* API development
+* Debugging & production monitoring
+
+---
+
+## 💻 Projects
+
+### 🔐 Password Manager System
+
+* Secure password management application
+* Encryption-based storage
+* Built with React + Backend API
+* CRUD operations with authentication
+
+### 📊 Automated Reporting System
+
+* Built automated data reporting pipelines
+* Integrated backend services for report generation
+* Focused on performance & clean architecture
+
+### 🛒 Full Stack E-Commerce Platform
+
+* Authentication & authorization
+* Product catalog & search
+* Shopping cart & checkout system
+* REST API-based backend
+* Secure input validation & best practices
+
+---
+
+## 🎯 Interests
+
+* Backend architecture & scalable systems
+* Data Engineering
+* Clean code & performance optimization
+* Hackathons & technical blogging
+* Continuous self-improvement
+
+---
+
+## 🧰 Languages and Tools
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 </div>
-
-
-
 
 

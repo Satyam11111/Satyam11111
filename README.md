@@ -1,7 +1,7 @@
 # Hi, I'm Satyam 👋
 
 * 💼 Currently working as **Data Engineer - Palantir**
-* 🔭 Building full-stack applications using **React, Spring Boot & Node.js**
+* 🔭 Building full-stack applications using **React, python, FAST API & Node.js**
 * 🌱 Actively improving **Data Engineering concepts & Advanced DSA**
 * 🧠 Solved **1000+ DSA problems**
 * 👯 Open to collaborate on real-world full-stack or data-driven projects
